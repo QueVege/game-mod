@@ -143,5 +143,6 @@ int main() {
 		
 	cout << "    * * * * * * *\n\n";
 	
+	getch();
 	return 0;
 }
